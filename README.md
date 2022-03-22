@@ -25,8 +25,8 @@ will be greeted with his/her data (see /design/success.png).
 # 📤 How to submit
 
 - You have 2 options to do it:
--- Send us in a zip via Email 
--- Create a repository in your Github and send us the URL with the final solutión *Recommended* 
+- - Send us in a zip via Email 
+- - Create a repository in your Github and send us the URL with the final solutión *Recommended* 
 
 
 # 🍀 Good Luck!
